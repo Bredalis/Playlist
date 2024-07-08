@@ -1,0 +1,13 @@
+
+
+* {
+	text-align: center;
+	color: whitesmoke;
+}
+
+
+body {
+	background-image: url("../IMG/Imagen_Fondo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
